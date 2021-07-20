@@ -1,0 +1,23 @@
+{
+  "name": "bot-wpp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoPDias/bot-wpp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoPDias/bot-wpp/issues"
+  },
+  "homepage": "https://github.com/RodrigoPDias/bot-wpp#readme",
+  "dependencies": {
+    "sulla": "^2.4.0"
+  }
+}
